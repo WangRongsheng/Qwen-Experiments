@@ -1,0 +1,1 @@
+下载Qwen-1.8B：https://huggingface.co/Qwen/Qwen-1_8B-Chat/tree/1d0f68de57b88cfde81f3c3e537f24464d889081
