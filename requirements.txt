@@ -1,0 +1,5 @@
+gradio==4.5.0
+transformers==4.36.2
+torch==2.1.1
+torchvision==0.16.1
+transformers-stream-generator==0.0.4
